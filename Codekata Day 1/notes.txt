@@ -1,0 +1,27 @@
+
+var toys = "car";
+
+var: The var keyword is used to declare a variable in JavaScript. In this context, var is indicating that a variable named "toys" is being created.
+
+toys: This is the variable name. You can choose any name you like for your variables, but it must follow certain rules, such as not starting with a number and not containing spaces.
+
+"car": This is the value being assigned to the variable "toys." In this case, it's a string with the value "car."
+
+// console.log:
+
+
+console.log is a JavaScript function used to output information or values to the console, typically for debugging and testing purposes. It's a handy tool for developers to inspect the values of variables, track the flow of their code, and identify issues in their programs. It allows you to print messages and data to the browser's developer console or the terminal (in a Node.js environment).
+
+Here's a brief summary of its use:
+
+Debugging: It helps developers diagnose and understand what's happening in their code by displaying the values of variables, objects, and expressions.
+
+Testing: Developers can use console.log to check the correctness of their code and to verify that functions and logic are working as expected.
+
+Information: It's used to provide informational messages or log events in applications, helping developers keep track of program execution.
+
+
+//length 
+length property is not exclusive to strings but is widely used with arrays and other objects to determine their size or the number of elements they contain.
+
+Monitoring: It's often used in real-time monitoring and debugging of web applications running in a browser's console.
